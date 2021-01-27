@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DarkAndLight.iml" filepath="$PROJECT_DIR$/.idea/modules/DarkAndLight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DarkAndLight.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DarkAndLight.app.iml" />
+    </modules>
+  </component>
+</project>
